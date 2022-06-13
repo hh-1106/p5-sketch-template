@@ -1,2 +1,1 @@
-# p5-sketch-template
- p5.js 项目模板
+[p5.js + vscode 工作流](https://zhuanlan.zhihu.com/p/528089273)
